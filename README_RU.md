@@ -1,6 +1,8 @@
 # **Chess Journey: Python Chess Game with Custom GUI and AI**
 
-Полностью переработанный школьный проект, созданный на основе серии туториалов ["Chess Engine in Python" от Eddie Sharick](https://www.youtube.com/watch?v=EnYui0e73Rs&list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_). В этом проекте реализована логика шахматных правил с помощью библиотеки [python-chess](https://github.com/niklasf/python-chess), собственные компоненты графического интерфейса пользователя (GUI) с использованием [pygame-ce](https://github.com/pygame-community/pygame-ce) и [pygame-gui](https://github.com/MyreMylar/pygame_gui), а также интеграция с сильным шахматным движком [Stockfish](https://stockfishchess.org/), что позволяет играть как против компьютера, так и самостоятельно.
+Полностью переработанный школьный проект, созданный на основе серии туториалов ["Chess Engine in Python" от Eddie Sharick](https://www.youtube.com/watch?v=EnYui0e73Rs&list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_). 
+
+В этом проекте реализована логика шахматных правил с помощью библиотеки [python-chess](https://github.com/niklasf/python-chess), собственные компоненты графического интерфейса пользователя (GUI) с использованием [pygame-ce](https://github.com/pygame-community/pygame-ce) и [pygame-gui](https://github.com/MyreMylar/pygame_gui), управление конфигурацией через [Pydantic Settings](https://github.com/pydantic/pydantic-settings), а также интеграция с сильным шахматным движком [Stockfish](https://stockfishchess.org/) (что позволяет играть как против компьютера, так и самостоятельно).
 
 ## **Структура проекта**
 
