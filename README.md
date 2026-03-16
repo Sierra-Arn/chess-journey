@@ -4,6 +4,9 @@ A completely reworked school project, created based on the tutorial series ["Che
 
 This project implements chess rules logic using the [python-chess](https://github.com/niklasf/python-chess) library, custom graphical user interface (GUI) components using [pygame-ce](https://github.com/pygame-community/pygame-ce) and [pygame-gui](https://github.com/MyreMylar/pygame_gui), configuration management via [Pydantic Settings](https://github.com/pydantic/pydantic-settings), as well as integration with the powerful [Stockfish](https://stockfishchess.org/) chess engine (allowing you to play both against the computer and on your own).
 
+> [!NOTE]  
+**This repository is archived.** See [End of Journey](#end-of-journey) for context.
+
 ## **Available Documentation**
 
 - [English Documentation](README.md) (current document).
